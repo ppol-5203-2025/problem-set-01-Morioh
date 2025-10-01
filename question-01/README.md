@@ -30,6 +30,7 @@ question-01/
 │   └── figure_sif__.png  # Figure 3 (appendix, robustness checks)
 │
 └── README.md            # This file
+```
 
 ## How to Use
 
